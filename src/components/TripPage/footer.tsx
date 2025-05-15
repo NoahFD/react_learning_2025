@@ -1,7 +1,7 @@
 type Item = {
   id: string;
   name: string;
-  count: number;
+  quantity: number;
   status: string;
 };
 
